@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**esemenec99-stack/esemenec99-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yevheniia Semenets**.
 
-Here are some ideas to get you started:
+## Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building automation tools and practical Python applications.
+
+### Skills
+
+- Python
+- Git & GitHub
+- REST APIs
+- Web Scraping
+- Excel Automation
+- PDF Generation
+- Telegram Bot Development
+
+## Projects
+
+- 🌦️ Telegram Weather Bot
+- 📊 Excel Automation Tool
+- 📄 PDF Invoice Generator
+- 🕷️ Python Web Scraper
+- 📄 Resume Generator
+
+## Currently Learning
+
+- FastAPI
+- Flask
+- SQL
+- Automation
+- AI Applications
+
+## Contact
+
+GitHub:
+https://github.com/esemenec99-stack
